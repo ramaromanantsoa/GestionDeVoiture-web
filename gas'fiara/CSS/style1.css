@@ -1,0 +1,51 @@
+.navig{
+	padding-bottom: 2%;
+}
+
+.nav-wrapper{
+	background-color: black;
+	position: absolute;
+}
+
+#tab{
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+#tabcar{
+	padding-right: 10%;
+	padding-left: 10%;	
+}
+
+.proprio, .voitures{
+	padding-bottom: 2%;
+	text-align: center;
+}
+
+.newreg{
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 5%;
+	border-width: 2px;
+	border-color: blue;
+	border-style: solid;
+}
+
+.carof{
+	text-align: center;
+	margin-bottom: 5%;
+	font-style: sans-serif;
+}
+
+.newcar{
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 5%;
+	border-width: 2px;
+	border-color: #0055FF;
+	border-style: solid;	
+}
+
+.editcolor{
+	font-weight: bolder;
+}
